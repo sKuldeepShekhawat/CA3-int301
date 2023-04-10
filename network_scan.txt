@@ -1,0 +1,16 @@
+Starting Nmap 7.92SVN ( https://nmap.org ) at 2023-04-10 22:46 IST
+Nmap scan report for shivanshu04 (192.168.193.81)
+Host is up (0.000036s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE     VERSION
+80/tcp  open  http        Apache httpd 2.4.41 ((Ubuntu))
+139/tcp open  netbios-ssn Samba smbd 4.6.2
+445/tcp open  netbios-ssn Samba smbd 4.6.2
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6.32
+OS details: Linux 2.6.32
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.42 seconds
